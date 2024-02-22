@@ -1,39 +1,40 @@
-# Your Full Name
+# Abderrahim Assouane
 
 **Contact Information:**
-- Phone: [Your Phone Number]
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
+- Phone: +212653945963
+- Email: box2018tow@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abderrahim-assouane/
+- Portfolio: https://portfolio-smei.vercel.app/ 
 
 ---
 
 ## Professional Summary/Objective:
 
-Self-motivated and dedicated Full-Stack Developer with a passion for continuous learning and professional growth. Skilled in frontend and backend technologies, with hands-on experience in developing web applications. Proven ability to tackle complex challenges and deliver innovative solutions.
+Hey there, I'm Abderrahim, a 26-year-old Full Stack Developer. I specialize in React and Next.js for frontend development, while also delving into Node.js for backend solutions. I'm also proficient in Python coding, holding an intermediate level of expertise.As a quick learner, I thrive on adapting to new technologies and solving challenges creatively. Let's build something great together!
 
 ---
 
 ## Skills:
 
-- Programming Languages: JavaScript, Python, Java
-- Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), React.js, Angular
-- Backend Technologies: Node.js, Express.js, Django
-- Databases: MongoDB, MySQL, PostgreSQL
-- Version Control Systems: Git, SVN
-- Other: RESTful APIs, Agile Development, Test-Driven Development (TDD)
+- Programming Languages: JavaScript, Python
+- Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), React.js , Next.js, Angular
+- Backend Technologies: Node.js
+- Databases: MongoDB, MySQL , Firebase
+- Version Control Systems: Git
+- Other: RESTful APIs
 
 ---
 
 ## Experience:
 
-### Self-Learning Journey, [Dates]
+### Self-Learning Journey, 2022-2024
 
 - Completed online courses and tutorials on various programming languages and frameworks.
 - Developed personal projects to apply theoretical knowledge and gain practical experience.
 - Actively participated in online developer communities and forums to seek guidance and share insights.
 - Implemented best practices and followed industry standards in project development and management.
 
-### Freelance Web Developer, [Dates]
+### Freelance Web Developer, 2023-2024
 
 - Worked independently to develop and deploy custom websites and web applications for clients.
 - Collaborated closely with clients to understand requirements and deliver tailored solutions.
@@ -43,20 +44,19 @@ Self-motivated and dedicated Full-Stack Developer with a passion for continuous 
 
 ## Certifications:
 
-- [Name of Certification], [Issuing Authority], [Year]
-- [Name of Certification], [Issuing Authority], [Year]
+- Responsive Web Design, FreeCodeCamp, 2024
+- JavaScript Algorithms and Data Structures, FreeCodeCamp, 2022
+- Scientific Computing with Python, FreeCodeCamp, 2022
+- Data Analysis with Python, FreeCodeCamp, 2022
 
 ---
 
 ## Projects:
 
-- [Project Name]: Brief description of the project, technologies used, and your role/responsibilities.
-- [Project Name]: Brief description of the project, technologies used, and your role/responsibilities.
+- Tweeeter app: Tweeeter is a social media platform where users can share short messages using Next.js .
+- Employee Monitoring Software: Employee Monitoring Software is an application designed to track employees attendance using React.js .
+- Callmi-app: Video calls made easy. Connect with friends and family effortlessly using react.js .
+- Stollie: Kanban Todos Management: Efficiently organize tasks with Kanban boards .
 
 ---
 
-## Additional Information:
-
-- Strong commitment to ongoing learning and professional development.
-- Proven ability to work effectively in both independent and collaborative environments.
-- Excellent communication and interpersonal skills.
