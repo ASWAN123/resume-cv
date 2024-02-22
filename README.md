@@ -8,7 +8,7 @@
 
 ---
 
-## Professional Summary/Objective:
+## Summary:
 
 Hey there, I'm Abderrahim, a 26-year-old Full Stack Developer. I specialize in React and Next.js for frontend development, while also delving into Node.js for backend solutions. I'm also proficient in Python coding, holding an intermediate level of expertise.As a quick learner, I thrive on adapting to new technologies and solving challenges creatively. Let's build something great together!
 
@@ -58,5 +58,4 @@ Hey there, I'm Abderrahim, a 26-year-old Full Stack Developer. I specialize in R
 - Callmi-app: Video calls made easy. Connect with friends and family effortlessly using react.js .
 - Stollie: Kanban Todos Management: Efficiently organize tasks with Kanban boards .
 
----
 
