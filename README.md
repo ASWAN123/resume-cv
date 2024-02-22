@@ -58,4 +58,11 @@ Hey there, I'm Abderrahim, a 26-year-old Full Stack Developer. I specialize in R
 - Callmi-app: Video calls made easy. Connect with friends and family effortlessly using react.js .
 - Stollie: Kanban Todos Management: Efficiently organize tasks with Kanban boards .
 
+---
+
+## Additional Information:
+
+- **Availability**: I am currently open to new opportunities and eager to contribute to innovative projects.
+- **Passion for Collaboration**: I thrive in collaborative environments and enjoy working with diverse teams to achieve shared goals.
+- **Continuous Improvement**: Committed to staying updated with the latest technologies and best practices in software development through ongoing learning and professional development.
 
