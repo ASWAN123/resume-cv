@@ -17,8 +17,8 @@ Hey there, I'm Abderrahim, a 26-year-old Full Stack Developer. I specialize in R
 ## Skills:
 
 - Programming Languages: JavaScript, Python
-- Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), React.js , Next.js, Angular
-- Backend Technologies: Node.js
+- Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), React.js , Next.js
+- Backend Technologies: Node.js  
 - Databases: MongoDB, MySQL , Firebase
 - Version Control Systems: Git
 - Other: RESTful APIs
